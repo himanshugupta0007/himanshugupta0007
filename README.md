@@ -7,6 +7,7 @@
 <a href="https://twitter.com/guphim9780" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Himanshu Gupta" height="30" width="40" /></a>
 <a href="https://medium.com/@himanshugupta0007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Himanshu Gupta" height="30" width="40" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshugupta0007&label=Profile%20views&color=0e75b6&style=flat" alt="himanshugupta0007" /> </p>
 <br>
 Hi, I am Himanshu Gupta, a tech enthusiast. I am self-motivated and inclined to learn new avenues in Technology. 
 
@@ -38,9 +39,6 @@ I love to share my learning, and my vision is to teach everyone what I have lear
 
 <hr>
 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshugupta0007&label=Profile%20views&color=0e75b6&style=flat" alt="himanshugupta0007" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshugupta0007&show_icons=true&locale=en&layout=compact" alt="himanshugupta0007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshugupta0007&show_icons=true&locale=en" alt="himanshugupta0007" /></p>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshugupta0007&show_icons=true&locale=en" alt="himanshugupta0007" /></p>
