@@ -39,6 +39,6 @@ I love to share my learning, and my vision is to teach everyone what I have lear
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshugupta0007&show_icons=true&locale=en&layout=compact" alt="himanshugupta0007" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshugupta0007&show_icons=true&locale=en" alt="himanshugupta0007" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshugupta0007&show_icons=true&locale=en&layout=compact" alt="himanshugupta0007" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshugupta0007&show_icons=true&locale=en" alt="himanshugupta0007" />
