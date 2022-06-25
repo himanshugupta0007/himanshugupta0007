@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Himanshu Gupta</h1>
 <hr>
-<h3 align="center">Tech Lead | AWS Cloud Associate Architect | Tech Blogger | Anime Lover</h3>
+<h3 align="center">Architect | AWS Cloud Associate Architect | Tech Blogger | Anime Lover</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/himanshu-gupta-5474369/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/himanshugupta0007/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Himanshu Gupta" height="30" width="40" /></a>
